@@ -19,3 +19,5 @@ Simple and modular design, suitable for users with minimal computational experti
 Customizable for future expansion
 
 Explore, modify, and contribute to MorSTORM to enhance quantitative super-resolution imaging analysis.
+
+An older, mean-shift based method is available from https://github.com/YPZ858/Super-res-code/issues/1
