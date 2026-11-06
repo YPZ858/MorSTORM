@@ -1,3 +1,5 @@
+An upgraded version is now available: https://github.com/YPZ858/MorSTORM2.0
+
 MorSTORM: MATLAB-based platform for morphological quantification of super-resolved single molecules
 
 MorSTORM is an integrated MATLAB-based platform designed for the quantitative analysis of super-resolution imaging data. The platform streamlines the entire workflow for single-molecule localisation, drift correction, and morphological quantification, enabling robust and reproducible analysis of SMLM datasets.
